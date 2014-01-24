@@ -1,4 +1,7 @@
-ansible-role-basepolicy
+ansible-role-policies
 =======================
 
-Base policy
+Usefull policies for automation
+
+# Debian
+- Disable service launch after installation
